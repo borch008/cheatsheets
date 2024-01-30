@@ -8,4 +8,4 @@ Encontrarás un docuemnto PDF con índice interactivo con las principales herram
  - Lenguaje DAX.  
  - Power BI Service.  
 
-Última actualización: 29-01-2024.
+Última actualización: 30-01-2024.
