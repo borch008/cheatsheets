@@ -1,7 +1,12 @@
 # GIT Cheatsheet
 
-Encontrarás diferentes comandos y procesos para trabajar con Git bush y Github tanto en local como luego subirlo.
+És una guía d'ajuda per treballar amb Git Bush (local) i GitHub (remot) que jo utilitzo i a vegades acualitzo.
 
-- Herramientas: Canvas, Chatgpt, Curso en el que he participado, Información encontrada en internet.
 
-Última actualización: 26-11-2023.
+
+* Herramientas: Canva, Chatgpt, Coneixements propis adquirits i d'ús.
+
+
+
+Última actualización: 25-08-2025.
+
